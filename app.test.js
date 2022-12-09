@@ -28,3 +28,5 @@ describe('test', function () {
       .expect('respond with a resource', done)
   })
 })
+
+// https://semaphoreci.com/community/tutorials/getting-started-with-gulp-js
